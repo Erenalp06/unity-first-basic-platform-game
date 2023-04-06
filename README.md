@@ -25,6 +25,7 @@
 * [Start Screen](#Start-Screen)
 * [Enemies](#Enemies)
 * [Animation](#Animation)
+* [Screenshots](#Screenshots-v1.0.0)
 
 
 ## UI ##
@@ -62,7 +63,7 @@
 ![image](https://user-images.githubusercontent.com/79882285/230452999-2e2c1716-e4ed-4f7c-922c-03aed8c439f9.png)
 
 
-
+## Screenshots-v1.0.0 ##
 Some screenshots from the game Version 1.0.0:
 
 ![Ekran görüntüsü 2023-04-04 122048](https://user-images.githubusercontent.com/79882285/229748753-c1996725-e62d-4798-b399-e9b50c54b9f7.png)
