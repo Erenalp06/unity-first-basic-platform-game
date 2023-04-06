@@ -17,6 +17,7 @@
   <li>Improvements have been made to the starting screen.</li>
   <li>Added new animations and sounds</li>
 </ul>
+<hr>
 
 
 * [UI](#UI)
