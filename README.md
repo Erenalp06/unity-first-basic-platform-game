@@ -18,13 +18,13 @@
   <li>Added new animations and sounds</li>
 </ul>
 
-<ul>
+
 [UI](#UI)
 [GameOver Screen](#GameOver-Screen)
 [Start Screen](#Start-Screen)
 [Enemies](#Enemies)
 [Animation](#Animation)
-</ul>
+
 
 ## UI ##
 
