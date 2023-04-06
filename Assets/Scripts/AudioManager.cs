@@ -6,6 +6,7 @@ public class AudioManager : MonoBehaviour
 {
     // Start is called before the first frame update
     [SerializeField] AudioSource audioSource;
+    [SerializeField]CharacterController controller;
     private bool isPlaying;
 
     private Animator animator;
@@ -15,7 +16,8 @@ public class AudioManager : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         isPlaying = true;
-        audioSource.Play();      
+        audioSource.Play();
+             
         
     }
 
@@ -33,15 +35,13 @@ public class AudioManager : MonoBehaviour
     void Update()
     {
         //print(isPlaying);
-        if(!isPlaying){
-            print("mutelendi");
+        if(controller!=null){
+            if(controller.hurted){
             audioSource.mute = true;
-        }else{
-            print("geri açıldı");
-            audioSource.mute = false;
+            
         }
-
-        animator.SetBool("isPlaying", isPlaying);
+        }
+        
         
     }
     

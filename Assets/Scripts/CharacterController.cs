@@ -6,8 +6,12 @@ public class CharacterController : MonoBehaviour
 {
     [SerializeField] private float moveSpeed = 10f;
     [SerializeField] private float jumpForce = 5f;
+    [SerializeField] private float fallMultiplier = 2.5f;
+    [SerializeField] private float lowJumpMultiplier = 2f;
 
     private bool grounded, gameStarted, jumping;
+
+    public bool hurted;
 
     Rigidbody2D rigidbody2D;
     Animator animator;
@@ -36,20 +40,39 @@ public class CharacterController : MonoBehaviour
 
         }
 
+        animator.SetBool("hurt", hurted);
+        //print("hurt" + hurted);
+
         //print("grounded : " + grounded);
         //print("position : " + transform.position);
     }
     
     void FixedUpdate()
     {
-        if(gameStarted){
+        if(gameStarted && !hurted){
             rigidbody2D.velocity = new Vector2(moveSpeed, rigidbody2D.velocity.y);
         }
 
-        if(jumping){
+        /*if(jumping && !hurted){
             //rigidbody2D.AddForce(new Vector2(0f, jumpForce), ForceMode2D.Impulse);
             rigidbody2D.velocity = new Vector2(rigidbody2D.velocity.x, jumpForce);
             jumping = false;
+        }*/
+
+        if(jumping && !hurted){
+            //rigidbody2D.AddForce(new Vector2(0f, jumpForce), ForceMode2D.Impulse);
+            rigidbody2D.velocity = Vector2.up * jumpForce;
+
+            if(rigidbody2D.velocity.y < 0){
+                rigidbody2D.velocity += Vector2.up * Physics2D.gravity.y * (fallMultiplier - 1) * Time.deltaTime;
+            }else if (rigidbody2D.velocity.y > 0 && !Input.GetButton("Jump"))
+            {
+                rigidbody2D.velocity += Vector2.up * Physics2D.gravity.y * (lowJumpMultiplier - 1) * Time.deltaTime;
+            }
+            jumping = false;
+
+            //rigidbody2D.velocity = new Vector2(rigidbody2D.velocity.x, jumpForce);
+            
         }
 
         
@@ -62,6 +85,13 @@ public class CharacterController : MonoBehaviour
             grounded = true;
             animator.SetBool("grounded", grounded);
         }
+
+        if(other.gameObject.CompareTag("obstacle")){
+            hurted = true;
+            
+        }
+
+        
     }
     
 

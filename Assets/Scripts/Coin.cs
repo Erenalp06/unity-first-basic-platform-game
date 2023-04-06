@@ -1,13 +1,26 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class Coin : MonoBehaviour
 {
     private Collider2D collider2D;
     [SerializeField] AudioClip audioClip;
+    [SerializeField] TextMeshProUGUI textMeshProUGUI;
 
-    public int score = 0;   
+    
+
+    
+
+    
+   
+    
+    void Awake()
+    {
+        textMeshProUGUI.SetText(score.totalScore.ToString());
+        
+    }
 
     
     void OnTriggerEnter2D(Collider2D other)
@@ -15,7 +28,9 @@ public class Coin : MonoBehaviour
         if(other.gameObject.CompareTag("Collectible")){            
             Destroy(other.gameObject);
             AudioSource.PlayClipAtPoint(audioClip, other.transform.position);
-            score++;
+            score.totalScore++;
+            textMeshProUGUI.SetText(score.totalScore.ToString());
+            
             
         }
     }
