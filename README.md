@@ -23,7 +23,7 @@
 
 
 ## ui ##
-[ui_link](#ui)
+
 <hr>
 
 ![image](https://user-images.githubusercontent.com/79882285/230451126-e6e20085-e6e5-4779-9878-177631e51a23.png)
