@@ -18,11 +18,11 @@
   <li>Added new animations and sounds</li>
 </ul>
 
-[UI](#ui)
+[UI](#UI)
 
 
 
-## ui ##
+## UI ##
 
 <hr>
 
