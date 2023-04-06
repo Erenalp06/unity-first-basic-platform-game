@@ -1,5 +1,5 @@
 # unity-first-basic-platform-game
-<h1>A simple platform game made with Unity.</h1>
+<h2>A simple platform game made with Unity.</h2>
 
 <p>I am trying to learn Unity, and I believe that the more practice I do, the more I can improve. This game is just a practice I made to improve myself.</p>
 
