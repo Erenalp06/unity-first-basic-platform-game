@@ -26,6 +26,7 @@
 * [Enemies](#Enemies)
 * [Animation](#Animation)
 * [Screenshots](#Screenshots-v1-0-0)
+* [GameVideo](#Game-Video-old)
 
 
 ## UI ##
@@ -81,7 +82,7 @@ Some screenshots from the game Version 1.0.0:
 ![Ekran görüntüsü 2023-04-04 122150](https://user-images.githubusercontent.com/79882285/229748846-5fc40ed6-499f-4c77-92c1-4e6885461671.png)
 
 
-<h2>Game video</h2>
+## Game Video-old ##
 
 https://user-images.githubusercontent.com/79882285/229802249-d7a75c07-c6e5-4e2e-87bf-6134bf3d3586.mp4
 
