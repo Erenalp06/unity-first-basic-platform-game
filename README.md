@@ -19,11 +19,11 @@
 </ul>
 
 <ul>
-  <li>[UI](#UI)</li>
-  <li>[GameOver Screen](#GameOver-Screen)</li>
-  <li>[Start Screen](#Start-Screen)</li>
-  <li>[Enemies](#Enemies)</li>
-  <li>[Animation](#Animation)</li>
+[UI](#UI)
+[GameOver Screen](#GameOver-Screen)
+[Start Screen](#Start-Screen)
+[Enemies](#Enemies)
+[Animation](#Animation)
 </ul>
 
 ## UI ##
