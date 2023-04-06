@@ -19,7 +19,7 @@
 </ul>
 
 [UI](#UI)
-[UI](#GameOver Screen)
+[UI](#GameOver-Screen)
 [UI](#UI)
 [UI](#UI)
 [UI](#UI)
