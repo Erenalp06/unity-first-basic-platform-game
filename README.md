@@ -25,16 +25,17 @@ Game video:
 https://user-images.githubusercontent.com/79882285/229802249-d7a75c07-c6e5-4e2e-87bf-6134bf3d3586.mp4
 
 <h1>Practise2DProject</h1>
-##Version 1.0.1
+<h2>Version 1.0.1</h2>
 
-#Game Update Notes
 
-1- Added 2 enemies (Oposum, Eagle) (If the character touches the enemy, the character's health decreases).
-2- Simple UI added (The character has 3 lives, and we can also see the diamonds the character collects).
-3- A new level added (The difference from the previous one is that there are enemies on this map).
-4- End screen added (When the character's health is depleted, they have to start the game all over again.)
-5- Improvements have been made to the starting screen.
-6- Added new animations and sounds
+<h3>Game Update Notes</h3>
+
+*1- Added 2 enemies (Oposum, Eagle) (If the character touches the enemy, the character's health decreases).
+*2- Simple UI added (The character has 3 lives, and we can also see the diamonds the character collects).
+*3- A new level added (The difference from the previous one is that there are enemies on this map).
+*4- End screen added (When the character's health is depleted, they have to start the game all over again.)
+*5- Improvements have been made to the starting screen.
+*6- Added new animations and sounds
 
 ui
 ![image](https://user-images.githubusercontent.com/79882285/230451126-e6e20085-e6e5-4779-9878-177631e51a23.png)
