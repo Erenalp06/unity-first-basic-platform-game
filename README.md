@@ -18,13 +18,13 @@
   <li>Added new animations and sounds</li>
 </ul>
 
-[UI](#UI)
-[UI](#GameOver-Screen)
-[UI](#UI)
-[UI](#UI)
-[UI](#UI)
-
-
+<ul>
+  <li>[UI](#UI)</li>
+  <li>[GameOver Screen](#GameOver-Screen)</li>
+  <li>[Start Screen](#Start-Screen)</li>
+  <li>[Enemies](#Enemies)</li>
+  <li>[Animation](#Animation)</li>
+</ul>
 
 ## UI ##
 
@@ -43,19 +43,19 @@
 
 ![image](https://user-images.githubusercontent.com/79882285/230451428-1b0ac652-dd41-4987-85d6-69f3b38f081e.png)
 
-<h4>Start Screen</h4>
+## Start Screen ##
 <hr>
 
 ![image](https://user-images.githubusercontent.com/79882285/230451453-22c7605d-773c-41b3-94ba-11a4a14fd910.png)
 
-<h4>Enemies</h4>
+## Enemies ##
 <hr>
 
 ![image](https://user-images.githubusercontent.com/79882285/230451596-edf2254b-8c9a-4818-ae29-13826a1d0969.png)
 ![image](https://user-images.githubusercontent.com/79882285/230451695-a2ba07a2-ae18-440c-be43-370ae57e9954.png)
 ![image](https://user-images.githubusercontent.com/79882285/230452235-7b33105c-71ff-45a5-8024-c0f56c3b6e4d.png)
 
-<h4>Animation</h4>
+## Animation ##
 <hr>
 
 ![image](https://user-images.githubusercontent.com/79882285/230452999-2e2c1716-e4ed-4f7c-922c-03aed8c439f9.png)
