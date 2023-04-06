@@ -30,16 +30,13 @@ https://user-images.githubusercontent.com/79882285/229802249-d7a75c07-c6e5-4e2e-
 
 <h3>Game Update Notes</h3>
 
-
-*2- Simple UI added (The character has 3 lives, and we can also see the diamonds the character collects).*
-*3- A new level added (The difference from the previous one is that there are enemies on this map).*
-*4- End screen added (When the character's health is depleted, they have to start the game all over again.)*
-*5- Improvements have been made to the starting screen.*
-*6- Added new animations and sounds*
-
-
 <ul>
   <li>Added 2 enemies (Oposum, Eagle) (If the character touches the enemy, the character's health decreases).</li>
+  <li>Simple UI added (The character has 3 lives, and we can also see the diamonds the character collects).</li>
+  <li>A new level added (The difference from the previous one is that there are enemies on this map)</li>
+  <li>End screen added (When the character's health is depleted, they have to start the game all over again.)</li>
+  <li>Improvements have been made to the starting screen.</li>
+  <li>Added new animations and sounds</li>
 </ul>
 
 ui
