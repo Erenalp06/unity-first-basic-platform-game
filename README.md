@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/79882285/229802249-d7a75c07-c6e5-4e2e-
 <h4>UI</h4>
 <hr>
 
-![image](https://user-images.githubusercontent.com/79882285/230451126-e6e20085-e6e5-4779-9878-177631e51a23.png | width=100)
+![image](https://user-images.githubusercontent.com/79882285/230451126-e6e20085-e6e5-4779-9878-177631e51a23.png=250x250)
 ![image](https://user-images.githubusercontent.com/79882285/230451254-1f212fa2-a076-45f0-a0d5-7e1150f862d2.png)
 ![image](https://user-images.githubusercontent.com/79882285/230451380-c34ba1b6-7f90-4386-90a0-a56ead17e965.png)
 ![image](https://user-images.githubusercontent.com/79882285/230451938-0767450e-0fdc-425a-87ba-585fa7d973d6.png)
