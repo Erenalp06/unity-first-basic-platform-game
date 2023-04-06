@@ -24,5 +24,56 @@ Game video:
 
 https://user-images.githubusercontent.com/79882285/229802249-d7a75c07-c6e5-4e2e-87bf-6134bf3d3586.mp4
 
+###Practise2DProject
+##Version 1.0.1
+
+#Game Update Notes
+
+1- Added 2 enemies (Oposum, Eagle) (If the character touches the enemy, the character's health decreases).
+2- Simple UI added (The character has 3 lives, and we can also see the diamonds the character collects).
+3- A new level added (The difference from the previous one is that there are enemies on this map).
+4- End screen added (When the character's health is depleted, they have to start the game all over again.)
+5- Improvements have been made to the starting screen.
+6- Added new animations and sounds
+
+ui
+![image](https://user-images.githubusercontent.com/79882285/230451126-e6e20085-e6e5-4779-9878-177631e51a23.png)
+![image](https://user-images.githubusercontent.com/79882285/230451254-1f212fa2-a076-45f0-a0d5-7e1150f862d2.png)
+![image](https://user-images.githubusercontent.com/79882285/230451380-c34ba1b6-7f90-4386-90a0-a56ead17e965.png)
+![image](https://user-images.githubusercontent.com/79882285/230451938-0767450e-0fdc-425a-87ba-585fa7d973d6.png)
+![image](https://user-images.githubusercontent.com/79882285/230452176-f07177a1-4166-431a-911e-6f2858d798d0.png)
+![image](https://user-images.githubusercontent.com/79882285/230452470-a49b3e18-8530-44e7-8677-713d1f3063df.png)
+![image](https://user-images.githubusercontent.com/79882285/230452912-2655b27d-18a3-4045-926a-37e1a3f9aa5d.png)
+
+gamover
+![image](https://user-images.githubusercontent.com/79882285/230451428-1b0ac652-dd41-4987-85d6-69f3b38f081e.png)
+
+startgame
+![image](https://user-images.githubusercontent.com/79882285/230451453-22c7605d-773c-41b3-94ba-11a4a14fd910.png)
+
+enemy
+![image](https://user-images.githubusercontent.com/79882285/230451596-edf2254b-8c9a-4818-ae29-13826a1d0969.png)
+![image](https://user-images.githubusercontent.com/79882285/230451695-a2ba07a2-ae18-440c-be43-370ae57e9954.png)
+![image](https://user-images.githubusercontent.com/79882285/230452235-7b33105c-71ff-45a5-8024-c0f56c3b6e4d.png)
+
+animation
+![image](https://user-images.githubusercontent.com/79882285/230452999-2e2c1716-e4ed-4f7c-922c-03aed8c439f9.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
