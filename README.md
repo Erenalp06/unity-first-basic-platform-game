@@ -18,7 +18,7 @@
   <li>Added new animations and sounds</li>
 </ul>
 
-[Go to Installation](#ui)
+[UI](#ui)
 
 
 
