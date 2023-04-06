@@ -3,10 +3,6 @@
 
 <p>I am trying to learn Unity, and I believe that the more practice I do, the more I can improve. This game is just a practice I made to improve myself.</p>
 
-Game video:
-
-https://user-images.githubusercontent.com/79882285/229802249-d7a75c07-c6e5-4e2e-87bf-6134bf3d3586.mp4
-
 <h1>Practise2DProject</h1>
 <h2>Version 1.0.1</h2>
 
@@ -72,6 +68,11 @@ Some screenshots from the game Version 1.0.0:
 ![Ekran görüntüsü 2023-04-04 122147](https://user-images.githubusercontent.com/79882285/229748835-e3fc2a62-fd7b-4959-814e-4ae83704cf65.png)
 
 ![Ekran görüntüsü 2023-04-04 122150](https://user-images.githubusercontent.com/79882285/229748846-5fc40ed6-499f-4c77-92c1-4e6885461671.png)
+
+
+<h2>Game video</h2>
+
+https://user-images.githubusercontent.com/79882285/229802249-d7a75c07-c6e5-4e2e-87bf-6134bf3d3586.mp4
 
 
 
