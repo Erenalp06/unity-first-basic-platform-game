@@ -24,7 +24,7 @@ Game video:
 
 https://user-images.githubusercontent.com/79882285/229802249-d7a75c07-c6e5-4e2e-87bf-6134bf3d3586.mp4
 
-###Practise2DProject
+<h1>Practise2DProject</h1>
 ##Version 1.0.1
 
 #Game Update Notes
