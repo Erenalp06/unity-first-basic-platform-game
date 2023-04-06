@@ -37,6 +37,12 @@ https://user-images.githubusercontent.com/79882285/229802249-d7a75c07-c6e5-4e2e-
 *5- Improvements have been made to the starting screen.*
 *6- Added new animations and sounds*
 
+
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
+
 ui
 ![image](https://user-images.githubusercontent.com/79882285/230451126-e6e20085-e6e5-4779-9878-177631e51a23.png)
 ![image](https://user-images.githubusercontent.com/79882285/230451254-1f212fa2-a076-45f0-a0d5-7e1150f862d2.png)
