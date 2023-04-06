@@ -19,6 +19,10 @@
 </ul>
 
 [UI](#UI)
+[UI](#GameOver Screen)
+[UI](#UI)
+[UI](#UI)
+[UI](#UI)
 
 
 
@@ -34,7 +38,7 @@
 ![image](https://user-images.githubusercontent.com/79882285/230452470-a49b3e18-8530-44e7-8677-713d1f3063df.png)
 ![image](https://user-images.githubusercontent.com/79882285/230452912-2655b27d-18a3-4045-926a-37e1a3f9aa5d.png)
 
-<h4>Gameover Screen</h4>
+## GameOver Screen ##
 <hr>
 
 ![image](https://user-images.githubusercontent.com/79882285/230451428-1b0ac652-dd41-4987-85d6-69f3b38f081e.png)
