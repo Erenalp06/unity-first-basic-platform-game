@@ -12,7 +12,7 @@
 * The start screen has been redesigned. 3 buttons have been added (Start button, Settings button, Quit button)
 * A pause menu has been added to the game. (Pressing the "esc" key is sufficient to pause the game). The pause menu includes resume, return to menu, quit game, and settings buttons.
 * Buttons and sliders have been added to the settings section of the pause menu to adjust game volume and sound effects.
-* keyboard tutorial added
+* Keyboard tutorials have been added to guide the player.
 <hr>
 
 * [Start Screen](#Start-Screen)
