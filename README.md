@@ -18,7 +18,7 @@
 * [Start Screen](#Start-Screen)
 * [Start Screen Settings](#Start-Screen-Settings)
 * [Keyboard Tutorials](#Keyboard-Tutorials)
-* [Pause Menu](Pause-Menu)
+* [Pause Menu](#Pause-Menu)
 * [Sound Settings](#Pause-Menu-Sound-Settings)
 
 
