@@ -23,31 +23,31 @@
 
 
 
-## Start-Screen ##
+## Start Screen ##
 
 <hr>
 
 ![image](https://user-images.githubusercontent.com/79882285/230649815-cd06de98-dbfc-4a72-b0ba-aa1be4f9777a.png)
 
-## Start-Screen-Settings ##
+## Start Screen Settings ##
 
 <hr>
 
 ![image](https://user-images.githubusercontent.com/79882285/230649861-daf50f4c-6dc0-4f5a-b22e-67be636aa7d7.png)
 
-## Keyboard-Tutorials ##
+## Keyboard Tutorials ##
 
 <hr>
 
 ![image](https://user-images.githubusercontent.com/79882285/230650049-e6624911-fc02-424b-9e51-b577ea21ee08.png)
 
-## Pause-Menu ##
+## Pause Menu ##
 
 <hr>
 
 ![image](https://user-images.githubusercontent.com/79882285/230650077-6cf993a2-cfed-4e8a-be5f-000d3c7e9dfa.png)
 
-## Pause-Menu-Sound-Settings ##
+## Pause Menu Sound Settings ##
 
 <hr>
 
