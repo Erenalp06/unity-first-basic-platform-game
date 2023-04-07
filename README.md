@@ -4,6 +4,58 @@
 <p>I am trying to learn Unity, and I believe that the more practice I do, the more I can improve. This game is just a practice I made to improve myself.</p>
 
 <h1>Practise2DProject</h1>
+
+<h2>Version 1.0.2 SNAPSHOT-2023_04_07_20_10</h2>
+
+<h3>Game Update Notes</h3>
+
+* The start screen has been redesigned. 3 buttons have been added (Start button, Settings button, Quit button)
+* A pause menu has been added to the game. (Pressing the "esc" key is sufficient to pause the game). The pause menu includes resume, return to menu, quit game, and settings buttons.
+* Buttons and sliders have been added to the settings section of the pause menu to adjust game volume and sound effects.
+* keyboard tutorial added
+<hr>
+
+* [Start Screen](#Start-Screen)
+* [Start Screen Settings](#Start-Screen-Settings)
+* [Keyboard Tutorials](#Keyboard-Tutorials)
+* [Pause Menu](Pause-Menu)
+* [Sound Settings](#Pause-Menu-Sound-Settings)
+
+
+
+## Start-Screen ##
+
+<hr>
+
+![image](https://user-images.githubusercontent.com/79882285/230649815-cd06de98-dbfc-4a72-b0ba-aa1be4f9777a.png)
+
+## Start-Screen-Settings ##
+
+<hr>
+
+![image](https://user-images.githubusercontent.com/79882285/230649861-daf50f4c-6dc0-4f5a-b22e-67be636aa7d7.png)
+
+## Keyboard-Tutorials ##
+
+<hr>
+
+![image](https://user-images.githubusercontent.com/79882285/230650049-e6624911-fc02-424b-9e51-b577ea21ee08.png)
+
+## Pause-Menu ##
+
+<hr>
+
+![image](https://user-images.githubusercontent.com/79882285/230650077-6cf993a2-cfed-4e8a-be5f-000d3c7e9dfa.png)
+
+## Pause-Menu-Sound-Settings ##
+
+<hr>
+
+![image](https://user-images.githubusercontent.com/79882285/230650121-87c84513-0b83-4316-9839-6cc22f71dcf5.png)
+![image](https://user-images.githubusercontent.com/79882285/230650195-3567c9b1-3d60-4722-b6fa-fe28fb51c956.png)
+
+
+
 <h2>Version 1.0.1</h2>
 
 
