@@ -6,7 +6,7 @@ public class obstacleMovement : MonoBehaviour
 {
     public float speed = 2f;
     private SpriteRenderer spriteRenderer;
-    [SerializeField] AudioClip audioClip;
+    
 
     private bool one = true;
 
@@ -54,7 +54,7 @@ public class obstacleMovement : MonoBehaviour
             score.lives--;
             score.totalScore = 0;
             
-            AudioSource.PlayClipAtPoint(audioClip, transform.position);            
+            AudioManager.Instance.PlaySFX("character-dead");            
             StartCoroutine(WaitForSecondMethod());
             
         }

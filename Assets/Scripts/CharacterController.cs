@@ -9,6 +9,8 @@ public class CharacterController : MonoBehaviour
     [SerializeField] private float fallMultiplier = 2.5f;
     [SerializeField] private float lowJumpMultiplier = 2f;
 
+    public static CharacterController Instance;
+
     private bool grounded, gameStarted, jumping;
 
     public bool hurted;
@@ -21,6 +23,9 @@ public class CharacterController : MonoBehaviour
         rigidbody2D = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         grounded = true;
+        if(Instance  == null){
+            Instance = this;
+        }
         
     }
     

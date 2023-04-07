@@ -5,17 +5,19 @@ using UnityEngine.SceneManagement;
 
 public class levelRestart : MonoBehaviour
 {
-    [SerializeField]CharacterController characterController;
-    [SerializeField] AudioClip audioClip;
+    
+    
     
     void OnTriggerEnter2D(Collider2D other)
     {
         if(other.gameObject.CompareTag("Player")){
-            if(characterController!= null){
-                characterController.hurted = true;
+            if(CharacterController.Instance!= null){
+                CharacterController.Instance.hurted = true;
+                print("hurted" + CharacterController.Instance.hurted);
                 
             }
-            AudioSource.PlayClipAtPoint(audioClip, characterController.transform.position);
+            AudioManager.Instance.PlaySFX("character-dead");
+            AudioManager.Instance.musicSource.mute = true;
             score.lives--;
             score.totalScore = 0;
             print(score.lives);

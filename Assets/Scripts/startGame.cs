@@ -10,4 +10,9 @@ public class startGame : MonoBehaviour
         score.lives = 3;
         score.totalScore = 0;
     }
+
+    public void ExitButton(){
+        Application.Quit();
+        Debug.Log("Game Closed");
+    }
 }

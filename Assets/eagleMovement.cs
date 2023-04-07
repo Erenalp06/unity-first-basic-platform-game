@@ -10,7 +10,7 @@ public class eagleMovement : MonoBehaviour
     private SpriteRenderer spriteRenderer;
 
 
-    [SerializeField] AudioClip audioClip;
+    
 
     private bool one = true;
     // Start is called before the first frame update
@@ -45,10 +45,14 @@ public class eagleMovement : MonoBehaviour
     void OnCollisionEnter2D(Collision2D other)
     {
         if(other.gameObject.CompareTag("Player") && one){
+            if(CharacterController.Instance!= null){
+                CharacterController.Instance.hurted = true;
+                
+            }
             one = false;
             score.lives--;
             score.totalScore = 0;
-            AudioSource.PlayClipAtPoint(audioClip, transform.position);            
+            AudioManager.Instance.PlaySFX("character-dead");           
             StartCoroutine(WaitForSecondMethod());
             
         }

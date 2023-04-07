@@ -5,8 +5,8 @@ using TMPro;
 
 public class Coin : MonoBehaviour
 {
-    private Collider2D collider2D;
-    [SerializeField] AudioClip audioClip;
+    
+    private Collider2D collider2D;    
     [SerializeField] TextMeshProUGUI textMeshProUGUI;
 
     
@@ -27,7 +27,7 @@ public class Coin : MonoBehaviour
     {
         if(other.gameObject.CompareTag("Collectible")){            
             Destroy(other.gameObject);
-            AudioSource.PlayClipAtPoint(audioClip, other.transform.position);
+            AudioManager.Instance.PlaySFX("collectible");
             score.totalScore++;
             textMeshProUGUI.SetText(score.totalScore.ToString());
             
